@@ -20,7 +20,8 @@ target/
 *.ipr
 target
 Servlets.iml
-out
+out/
+.gitignore
 
 ### NetBeans ###
 /nbproject/private/
